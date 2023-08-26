@@ -1297,6 +1297,11 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@phosphor-icons/react@^2.0.10":
+  version "2.0.10"
+  resolved "https://registry.yarnpkg.com/@phosphor-icons/react/-/react-2.0.10.tgz#dcf2f6dabd42bf9156be38caf59d4c818af2b817"
+  integrity sha512-q5ITPNFhmEiYZLZOvEhjo2phlfxoOmit7vE1tBYMxcMqnZX2vdbMw3deDE7wCegpBKM/q/p39BJmhhoPcjZyCg==
+
 "@remix-run/router@1.8.0":
   version "1.8.0"
   resolved "https://registry.yarnpkg.com/@remix-run/router/-/router-1.8.0.tgz#e848d2f669f601544df15ce2a313955e4bf0bafc"
@@ -2254,10 +2259,10 @@ highlight.js@^10.4.1, highlight.js@~10.7.0:
   resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.7.3.tgz#697272e3991356e40c3cac566a74eef681756531"
   integrity sha512-tzcUFauisWKNHaRkN4Wjl/ZA07gENAjFl3J/c480dprkGTg5EQstgaNFqBfUqCq54kZRIEcreTsAgF/m2quD7A==
 
-hyuns-api-v2-client@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/hyuns-api-v2-client/-/hyuns-api-v2-client-0.2.1.tgz#cb15df5c0314733c3fb5759b24efcb7df692c80b"
-  integrity sha512-bEOU1Bsi9bzz7MtszYuiYY3qRCdRwhRBOPZrby587VdEyFrSDyTUS3j89jAUf8/xykRsREV4mSb7gp4harOTfg==
+hyuns-api-v2-client@^0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/hyuns-api-v2-client/-/hyuns-api-v2-client-0.3.2.tgz#140fbd720555ecf6b749a719716eb05e1e982c9e"
+  integrity sha512-tNmAOmcIzg0A3FMTpk+JJ/M/+dlBkGd8DlzAEPNvaaG1p45Q8J6Jxr6+/toMRBxHGBOwkcnrEDJRkQe+ijPfVw==
   dependencies:
     axios "^0.27.2"
     dayjs "^1.11.5"
@@ -2741,6 +2746,11 @@ react-router@6.15.0:
   integrity sha512-NIytlzvzLwJkCQj2HLefmeakxxWHWAP+02EGqWEZy+DgfHHKQMUoBBjUQLOtFInBMhWtb3hiUy6MfFgwLjXhqg==
   dependencies:
     "@remix-run/router" "1.8.0"
+
+react-swipeable@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/react-swipeable/-/react-swipeable-7.0.1.tgz#cd299f5986c5e4a7ee979839658c228f660e1e0c"
+  integrity sha512-RKB17JdQzvECfnVj9yDZsiYn3vH0eyva/ZbrCZXZR0qp66PBRhtg4F9yJcJTWYT5Adadi+x4NoG53BxKHwIYLQ==
 
 react-syntax-highlighter@^15.5.0:
   version "15.5.0"
